@@ -17,7 +17,7 @@ It features a robust **Censorship Bypass Architecture** that completely bypasses
   * Embedded Chromium routing via `--host-resolver-rules` for Turnstile browser login modal.
 * **Offline Library (Downloader)**:
   * Full-featured downloader with progressive tracking (percentage and status).
-  * Control keys: **Pause (Jeda)**, **Resume (Lanjutkan)**, **Cancel (Batal)**, and **Delete** buttons.
+  * Control keys: **Pause**, **Resume**, **Cancel**, and **Delete** buttons.
   * Metadata preservation for offline reading mode.
   * **Export to PDF**: Generate clean, print-ready PDF files directly from offline galleries with live status trackers.
 * **Smart Search Mechanics**:
