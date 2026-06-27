@@ -2,6 +2,8 @@
 
 An unofficial, premium desktop client for **NHentai** based on the popular Android client `maxwai/NClientV3`. Built with **React**, **Electron**, **TypeScript**, and **Vanilla CSS** featuring a gorgeous Obsidian dark glassmorphism user interface.
 
+![NClient-Desktop Homepage Preview](src/assets/preview.jpg)
+
 It features a robust **Censorship Bypass Architecture** that completely bypasses ISP-level DNS blocks programmatically, allowing you to access nHentai and its content securely without requiring a VPN.
 
 ---
